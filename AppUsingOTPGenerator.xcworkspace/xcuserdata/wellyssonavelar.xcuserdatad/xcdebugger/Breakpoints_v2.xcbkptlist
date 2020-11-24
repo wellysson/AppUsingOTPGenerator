@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DFFCE271-4093-466B-82C9-90237FBE1BCE"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "427C92B8-9634-4276-97E8-E1391DD9F91B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppUsingOTPGenerator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "36"
+            endingLineNumber = "36"
+            landmarkName = "validateOTP(otp:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "427C92B8-9634-4276-97E8-E1391DD9F91B - 991a0a6333e98821"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "AppUsingOTPGenerator.ViewController.validateOTP(otp: Swift.String) -&gt; ()"
+                  moduleName = "AppUsingOTPGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellyssonavelar/Work/RaroLabs/Sources/AppUsingOTPGenerator/AppUsingOTPGenerator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "93">
+               </Location>
+               <Location
+                  uuid = "427C92B8-9634-4276-97E8-E1391DD9F91B - b276c809ecf70fe3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.Bool) -&gt; () in AppUsingOTPGenerator.ViewController.validateOTP(otp: Swift.String) -&gt; ()"
+                  moduleName = "AppUsingOTPGenerator"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/wellyssonavelar/Work/RaroLabs/Sources/AppUsingOTPGenerator/AppUsingOTPGenerator/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "36"
+                  endingLineNumber = "36"
+                  offsetFromSymbolStart = "115">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "C46C8969-25FC-491B-AF31-C2C67AAA5AD8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppUsingOTPGenerator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "validateOTP(otp:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "616FC2D9-6682-4BC7-84FD-68EF410C5AED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "AppUsingOTPGenerator/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "setKeyAndTimer()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

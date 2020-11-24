@@ -1,0 +1,34 @@
+{
+  "name": "OTPGenerator",
+  "version": "1.0.1",
+  "summary": "Autenticação com servidores da RaroLabs, geração de OTP OTPGenerator.",
+  "description": "Biblioteca de produtos RaroLabs, responsável por manipulação de OTP.",
+  "homepage": "https://github.com/wellysson/OTPGenerator/tree/master/OTPGenerator",
+  "license": "Copyleft",
+  "authors": {
+    "wellysson": "wellyssonva@live.com"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/wellysson/OTPGenerator.git",
+    "tag": "1.0.1"
+  },
+  "source_files": "OTPGenerator/**/*.{h,m,swift}",
+  "exclude_files": "Services/Exclude",
+  "dependencies": {
+    "Alamofire": [
+      "~> 4.7"
+    ],
+    "ObjectMapper": [
+      "~> 3.5"
+    ],
+    "OneTimePassword": [
+      "~> 3.2"
+    ],
+    "SwiftyRSA": [
+
+    ]
+  }
+}
