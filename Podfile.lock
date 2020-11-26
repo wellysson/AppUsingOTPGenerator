@@ -14,7 +14,7 @@ PODS:
   - SwiftyRSA/ObjC (1.6.0)
 
 DEPENDENCIES:
-  - OTPGenerator (from `https://git.rarolabs.com.br/bmg/otp-generator-ios.git`)
+  - OTPGenerator (from `../otp-generator-ios`)
 
 SPEC REPOS:
   trunk:
@@ -26,12 +26,7 @@ SPEC REPOS:
 
 EXTERNAL SOURCES:
   OTPGenerator:
-    :git: https://git.rarolabs.com.br/bmg/otp-generator-ios.git
-
-CHECKOUT OPTIONS:
-  OTPGenerator:
-    :commit: ede0c3ef1d5d1fbe59d6f83bf6a6df730c345a9d
-    :git: https://git.rarolabs.com.br/bmg/otp-generator-ios.git
+    :path: "../otp-generator-ios"
 
 SPEC CHECKSUMS:
   Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
@@ -41,6 +36,6 @@ SPEC CHECKSUMS:
   OTPGenerator: 1f23134b3237464520edef742d649c41b152775e
   SwiftyRSA: 3b9c9179744217951facc6a3e9ae8d8c97061ffa
 
-PODFILE CHECKSUM: cffd94bea61402a5f8b2831b98bf45e0e2f427e6
+PODFILE CHECKSUM: 7f64ee56231f9683fdef4e17749f265c3b665a53
 
 COCOAPODS: 1.10.0

@@ -6,8 +6,8 @@ target 'AppUsingOTPGenerator' do
   use_frameworks!
 
   # Pods for AppUsingOTPGenerator
-  pod 'OTPGenerator', git: 'https://git.rarolabs.com.br/bmg/otp-generator-ios.git'
+#  pod 'OTPGenerator', git: 'https://git.rarolabs.com.br/bmg/otp-generator-ios.git'
 #  pod 'OTPGenerator', git: 'https://github.com/wellysson/OTPGeneratorPod.git'
-#pod 'OTPGenerator', :path => '../otp-generator-ios'
+pod 'OTPGenerator', :path => '../otp-generator-ios'
 
 end

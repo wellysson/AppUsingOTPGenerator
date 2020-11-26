@@ -14,13 +14,13 @@
             filePath = "AppUsingOTPGenerator/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "36"
-            endingLineNumber = "36"
+            startingLineNumber = "100"
+            endingLineNumber = "100"
             landmarkName = "validateOTP(otp:)"
             landmarkType = "7">
             <Locations>
                <Location
-                  uuid = "427C92B8-9634-4276-97E8-E1391DD9F91B - 991a0a6333e98821"
+                  uuid = "427C92B8-9634-4276-97E8-E1391DD9F91B - 991a0a6333e99fe1"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -30,12 +30,12 @@
                   urlString = "file:///Users/wellyssonavelar/Work/RaroLabs/Sources/AppUsingOTPGenerator/AppUsingOTPGenerator/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "36"
-                  endingLineNumber = "36"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
                   offsetFromSymbolStart = "93">
                </Location>
                <Location
-                  uuid = "427C92B8-9634-4276-97E8-E1391DD9F91B - b276c809ecf70fe3"
+                  uuid = "427C92B8-9634-4276-97E8-E1391DD9F91B - b276c809ecf71823"
                   shouldBeEnabled = "Yes"
                   ignoreCount = "0"
                   continueAfterRunningActions = "No"
@@ -45,8 +45,8 @@
                   urlString = "file:///Users/wellyssonavelar/Work/RaroLabs/Sources/AppUsingOTPGenerator/AppUsingOTPGenerator/ViewController.swift"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "36"
-                  endingLineNumber = "36"
+                  startingLineNumber = "100"
+                  endingLineNumber = "100"
                   offsetFromSymbolStart = "115">
                </Location>
             </Locations>
@@ -62,8 +62,8 @@
             filePath = "AppUsingOTPGenerator/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "39"
-            endingLineNumber = "39"
+            startingLineNumber = "103"
+            endingLineNumber = "103"
             landmarkName = "validateOTP(otp:)"
             landmarkType = "7">
          </BreakpointContent>
@@ -71,16 +71,16 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "616FC2D9-6682-4BC7-84FD-68EF410C5AED"
+            uuid = "4B55284A-E207-4467-93F1-98373CFC868D"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "AppUsingOTPGenerator/ViewController.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "52"
-            endingLineNumber = "52"
-            landmarkName = "setKeyAndTimer()"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "encryptText(publicKeyString:text:)"
             landmarkType = "7">
          </BreakpointContent>
       </BreakpointProxy>
