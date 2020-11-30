@@ -7,81 +7,17 @@
       <BreakpointProxy
          BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
          <BreakpointContent
-            uuid = "427C92B8-9634-4276-97E8-E1391DD9F91B"
+            uuid = "20556A19-6FF6-4E6D-A393-D0EE88059BF9"
             shouldBeEnabled = "Yes"
             ignoreCount = "0"
             continueAfterRunningActions = "No"
-            filePath = "AppUsingOTPGenerator/ViewController.swift"
+            filePath = "../otp-generator-ios/OTPGenerator/Business/OTPGenerator.swift"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "100"
-            endingLineNumber = "100"
-            landmarkName = "validateOTP(otp:)"
-            landmarkType = "7">
-            <Locations>
-               <Location
-                  uuid = "427C92B8-9634-4276-97E8-E1391DD9F91B - 991a0a6333e99fe1"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "AppUsingOTPGenerator.ViewController.validateOTP(otp: Swift.String) -&gt; ()"
-                  moduleName = "AppUsingOTPGenerator"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/wellyssonavelar/Work/RaroLabs/Sources/AppUsingOTPGenerator/AppUsingOTPGenerator/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "100"
-                  endingLineNumber = "100"
-                  offsetFromSymbolStart = "93">
-               </Location>
-               <Location
-                  uuid = "427C92B8-9634-4276-97E8-E1391DD9F91B - b276c809ecf71823"
-                  shouldBeEnabled = "Yes"
-                  ignoreCount = "0"
-                  continueAfterRunningActions = "No"
-                  symbolName = "closure #1 (Swift.Bool) -&gt; () in AppUsingOTPGenerator.ViewController.validateOTP(otp: Swift.String) -&gt; ()"
-                  moduleName = "AppUsingOTPGenerator"
-                  usesParentBreakpointCondition = "Yes"
-                  urlString = "file:///Users/wellyssonavelar/Work/RaroLabs/Sources/AppUsingOTPGenerator/AppUsingOTPGenerator/ViewController.swift"
-                  startingColumnNumber = "9223372036854775807"
-                  endingColumnNumber = "9223372036854775807"
-                  startingLineNumber = "100"
-                  endingLineNumber = "100"
-                  offsetFromSymbolStart = "115">
-               </Location>
-            </Locations>
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "C46C8969-25FC-491B-AF31-C2C67AAA5AD8"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AppUsingOTPGenerator/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "103"
-            endingLineNumber = "103"
-            landmarkName = "validateOTP(otp:)"
-            landmarkType = "7">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            uuid = "4B55284A-E207-4467-93F1-98373CFC868D"
-            shouldBeEnabled = "Yes"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "AppUsingOTPGenerator/ViewController.swift"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "54"
-            endingLineNumber = "54"
-            landmarkName = "encryptText(publicKeyString:text:)"
-            landmarkType = "7">
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "OTPGenerator"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
